@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/bhavnabhawnani0755/bhavnabhawnani/_apis/build/status/ash1409.pipelines-java?branchName=master)](https://dev.azure.com/bhavnabhawnani0755/bhavnabhawnani/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
